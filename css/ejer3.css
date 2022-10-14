@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins&family=Roboto+Slab&display=swap');
+
+body, h1,h4{
+margin: 0;
+padding: 0;
+}
+
+
+body{
+  background-image: url(../img/estrella.png);
+  font-family: 'Roboto Slab', serif;
+}
+
+h1{
+  color: white;
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  background-color: black;
+
+}
+
+/* selectores personalizados */
+.contenedor{
+  width: 800px;
+  background-color: white;
+  margin: 50px auto;
+  padding: 50px;
+  border: 2px solid black;
+  border-radius: 8px;
+  text-align: center;
+margin: 0 auto;
+
+}
+
+.cabeza{
+  color: white;
+background-color: #009999;
+padding: 20px;
+
+}
+
+.cuerpo{
+  padding: 50px;
+
+}
+
+}
+
+.pie{
+
+color: white;
+background-color: black;
+padding: 19px;
+text-align: center;
+}
+
+.img-portada{
+  display: flex;
+  justify-content:center;
+  border-radius: 10px solid blue;
+}
+
+.link1{
+  color: red;
+}
+.link1:hover{
+  color: orange;
+  text-decoration:none;
+
+
+}

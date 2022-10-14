@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins&family=Roboto+Slab&display=swap');
+body{
+  background-image: url(../img/estrella.png);
+  font-family: 'Roboto Slab', serif;
+
+
+}
+
+h1{
+  color: white;
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  background-color: black;
+
+}
+
+/* selectores personalizados */
+.contenedor{
+  width: 600px;
+  background-color: white;
+  margin: 150px auto;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.borde-foto{
+  border: 5px solid black;
+  border-radius: 50px;
+}
